@@ -1,0 +1,9 @@
+body{
+	 background:rgba(255,50,255,0.8);
+}
+img{
+	border-top:blue 5px solid;
+	border-bottom:blue 5px solid;
+	border-right:blue 5px solid;
+	border-left:blue 5px solid;
+}

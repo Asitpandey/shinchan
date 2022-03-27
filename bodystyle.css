@@ -1,0 +1,7 @@
+body{
+	background:rgba(10,255,255,1);
+}
+h1{border-top:blue 5px solid;
+	border-bottom:blue 5px solid;
+	border-right:blue 5px solid;
+	border-left:blue 5px solid; }
